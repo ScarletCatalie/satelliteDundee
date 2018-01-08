@@ -315,19 +315,19 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 1f16052dfd5f6f54e94e97ecedd4c86b, type: 3}
-    m_FontSize: 59
+    m_FontSize: 69
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 97
-    m_Alignment: 4
+    m_Alignment: 7
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "GENERATOR (wt) IS\nVERY WORK IN PROGRESS\nI'M NOT SURE ENTIRELY \nWHAT
-    THIS GAME IS, \nBUT IT LOOKS REAL COOL\n\n"
+  m_Text: "this project is extremely\nWORK IN PROGRESS\ni'm not sure entirely \nwhat
+    this game is, but it \nLOOKS REAL COOL\n\n"
 --- !u!222 &1207454518
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -441,4 +441,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timer: 3
-  sceneNumber: 1
+  sceneNumber: 2

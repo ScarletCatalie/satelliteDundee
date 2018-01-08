@@ -120,6 +120,7 @@ GameObject:
   - component: {fileID: 269360915}
   - component: {fileID: 269360914}
   - component: {fileID: 269360913}
+  - component: {fileID: 269360918}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -197,6 +198,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &269360918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 269360912}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: 98d39a832cc9ae54bba6364a7e2c56d5, type: 2}
 --- !u!1 &478723514
 GameObject:
   m_ObjectHideFlags: 0
@@ -291,8 +304,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 245.5, y: -103.9}
-  m_SizeDelta: {x: 459.9, y: 36.5}
+  m_AnchoredPosition: {x: 245.5, y: -95.5}
+  m_SizeDelta: {x: 459.9, y: 19.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &942330245
 MonoBehaviour:
@@ -326,7 +339,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "created in UNITY\r\nusing PROBUILDER"
+  m_Text: "Created in UNITY\r\n"
 --- !u!222 &942330246
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -439,8 +452,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 245.5, y: -390}
-  m_SizeDelta: {x: 459.9, y: 101.61}
+  m_AnchoredPosition: {x: 245.5, y: -364.33}
+  m_SizeDelta: {x: 459.9, y: 152.96}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1651904504
 MonoBehaviour:
@@ -474,7 +487,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "additional THANKS to\r\nedindies\r\nwhitebox56\r\nwilliam pugh"
+  m_Text: "Additinal THANKS to:\nthe EDINDIES\r community\nthe VIDEOBRAINS community\nWhitebox56\r\nWilliam
+    Pugh"
 --- !u!222 &1651904505
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -610,8 +624,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 245.5, y: -235.9}
-  m_SizeDelta: {x: 459.9, y: 206.6}
+  m_AnchoredPosition: {x: 245.5, y: -196.6}
+  m_SizeDelta: {x: 459.9, y: 182.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2055890017
 MonoBehaviour:
@@ -645,11 +659,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "thanks to the following PATRONS\r\nfor giving me money to create:\r\n\nAlex
-    Howard Whitaker, Amy Parent, Aodhan Creelman,\r Bounder Games, Cameron, Cassidy
-    Aquilino-Berg, \rEd Key, Ian, Jack Deeth, Jay Tholen, jctwood, \r\nJoel Beardshaw,
-    Lexa Francis, Margaret Blackburn, \rMark Wonnacott, Nick Lange, Norgg, Rachel
-    Crawford,\r Rebecca O'Neil, Ryan Evans, Sam Macdougal Greer, \rSarah Cole."
+  m_Text: "These wonderful PATRONS gave me money to make video games:\n\nAlex Howard
+    Whitaker, Amy Parent, Aodhan Creelman,\r Bounder Games, Cameron, Cassidy Aquilino-Berg,
+    \rEd Key, Ian, Jack Deeth, Jay Tholen, jctwood, \rJoel Beardshaw, Lexa Francis,
+    Margaret Blackburn, \rMark Wonnacott, Nick Lange, Norgg, Rachel Crawford,\r Rebecca
+    O'Neil, Ryan Evans, Sam Macdougal Greer, \rSarah Cole."
 --- !u!222 &2055890018
 CanvasRenderer:
   m_ObjectHideFlags: 0

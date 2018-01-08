@@ -8,12 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/splash.unity
     guid: c6b01bb7be132a847ba6e7db5e6b02ec
-  - enabled: 1
-    path: Assets/Scenes/ext_streetOne.unity
+  - enabled: 0
+    path: 
     guid: 0dee18859762f1249b9632e706734e1d
-  - enabled: 1
-    path: Assets/Scenes/int_shop.unity
+  - enabled: 0
+    path: 
     guid: 6546b2108d796ce4e99b9aedcdb2f001
   - enabled: 1
     path: Assets/Scenes/HELP.unity
     guid: 08c9f337cc681f64cb53dcfcf7c26eab
+  - enabled: 1
+    path: Assets/Scenes/a1_m1_Open.unity
+    guid: 843c08b8ddeece546be5132dd68da800
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: 4b1bf14a86c7cfa4f9f8cb5a92b21e75
